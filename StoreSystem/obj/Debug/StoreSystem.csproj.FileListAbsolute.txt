@@ -1,0 +1,12 @@
+C:\Users\kevin\source\repos\StoreSystem\StoreSystem\bin\Debug\StoreSystem.exe.config
+C:\Users\kevin\source\repos\StoreSystem\StoreSystem\bin\Debug\StoreSystem.exe
+C:\Users\kevin\source\repos\StoreSystem\StoreSystem\bin\Debug\StoreSystem.pdb
+C:\Users\kevin\source\repos\StoreSystem\StoreSystem\bin\Debug\DatabaseLibrary.dll
+C:\Users\kevin\source\repos\StoreSystem\StoreSystem\bin\Debug\DatabaseLibrary.pdb
+C:\Users\kevin\source\repos\StoreSystem\StoreSystem\obj\Debug\StoreSystem.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\StoreSystem\StoreSystem\obj\Debug\StoreSystem.Properties.Resources.resources
+C:\Users\kevin\source\repos\StoreSystem\StoreSystem\obj\Debug\StoreSystem.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\StoreSystem\StoreSystem\obj\Debug\StoreSystem.csproj.CopyComplete
+C:\Users\kevin\source\repos\StoreSystem\StoreSystem\obj\Debug\StoreSystem.exe
+C:\Users\kevin\source\repos\StoreSystem\StoreSystem\obj\Debug\StoreSystem.pdb
+C:\Users\kevin\source\repos\StoreSystem\StoreSystem\obj\Debug\StoreSystem.CustomerForm.resources
